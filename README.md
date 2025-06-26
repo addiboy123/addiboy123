@@ -41,7 +41,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/addiboy123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=addiboy123&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addiboy123&theme=buefy&layout=compact" />
 </a>
@@ -53,6 +53,6 @@
 <p align="center">
 
 
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-aditya2bs-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-adityabibhas.sahu@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/aditya2bs"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-aditya2bs-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:adityabibhas.sahu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adityabibhas.sahu@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
